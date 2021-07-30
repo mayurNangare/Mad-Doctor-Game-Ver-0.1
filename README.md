@@ -6,3 +6,5 @@ Features :
         1.Press Arrow or WASD keys to Move the Player.
         2.Press Q to change the Weapons.
         3. Press Space to Shoot.
+
+GIT hub Pages Link :- https://mayurnangare.github.io/Mad-Doctor-Game-Ver-0.1/
